@@ -8,9 +8,12 @@ namespace AddApplication
 {
     class Program
     {
-        static void Main(int x, int y)
+        static void Main()
         {
-            Console.WriteLine("addition is {0}", x + y);
+            // changed int to string
+            string x1 = "raj";
+            string x2 = "canna";
+            Console.WriteLine("addition is {0}", x1 + x2);
             Console.ReadLine();
         }
     }
