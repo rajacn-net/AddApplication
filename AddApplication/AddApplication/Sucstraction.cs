@@ -10,13 +10,8 @@ namespace AddApplication
     {
         public void Subtraction()
         {
-            int a1 = 34;
-            int a2 = 45;
-
-            Console.WriteLine("Substraction {0}", a1 - a2);
-            Console.ReadLine();
-            
-            // lets do it...
+                     
+            // take this into other branch and fetch
 
         }
     }
