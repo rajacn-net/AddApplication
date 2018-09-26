@@ -16,11 +16,7 @@ namespace AddApplication
             Console.WriteLine("addition is {0}", x1 + x2);
             Console.ReadLine();
             
-            // changed again...
-            
-            // try using var
-            
-            // no you can add it later..
+           // okay. its up to you.
         }
     }
 }
