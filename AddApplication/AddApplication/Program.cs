@@ -17,6 +17,13 @@ namespace AddApplication
             Console.ReadLine();
             
             // changed again...
+            
+            // try using var
+            
+            var y1 = 45;
+            var y2 = 34;
+            console.writeline("Substraction is {0}", y1 - y2);
+            console.readline();
         }
     }
 }
