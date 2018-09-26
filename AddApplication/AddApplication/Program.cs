@@ -16,7 +16,7 @@ namespace AddApplication
             Console.WriteLine("addition is {0}", x1 + x2);
             Console.ReadLine();
             
-           // okay. its up to you.
+           // bye buddy.
         }
     }
 }
